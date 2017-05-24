@@ -1,0 +1,364 @@
+{
+  "BTTPresetName" : "Default",
+  "BTTPresetUUID" : "A942DF93-7AE1-4621-BE65-E1D4F853D823",
+  "BTTPresetContent" : [
+    {
+      "BTTAppBundleIdentifier" : "com.apple.iWork.Pages",
+      "BTTAppName" : "Pages",
+      "BTTAppSpecificSettings" : {
+
+      },
+      "BTTTriggers" : [
+        {
+          "BTTTriggerType" : 103,
+          "BTTTriggerTypeDescription" : "3 Finger Swipe Down",
+          "BTTTriggerClass" : "BTTTriggerTypeTouchpadAll",
+          "BTTShortcutToSend" : "59,55,27",
+          "BTTEnabled" : 1,
+          "BTTRequiredModifierKeys" : 1048576,
+          "BTTOrder" : 1
+        },
+        {
+          "BTTTriggerType" : 102,
+          "BTTTriggerTypeDescription" : "3 Finger Swipe Up",
+          "BTTTriggerClass" : "BTTTriggerTypeTouchpadAll",
+          "BTTShortcutToSend" : "59,56,55,24",
+          "BTTEnabled" : 1,
+          "BTTRequiredModifierKeys" : 1048576,
+          "BTTOrder" : 0
+        }
+      ]
+    },
+    {
+      "BTTAppBundleIdentifier" : "org.mozilla.firefox",
+      "BTTAppName" : "Firefox",
+      "BTTAppSpecificSettings" : {
+
+      },
+      "BTTTriggers" : [
+        {
+          "BTTTriggerType" : 100,
+          "BTTTriggerTypeDescription" : "3 Finger Swipe Left",
+          "BTTTriggerClass" : "BTTTriggerTypeTouchpadAll",
+          "BTTShortcutToSend" : "59,48",
+          "BTTEnabled" : 1,
+          "BTTOrder" : 40,
+          "BTTKeySequence" : {
+
+          }
+        },
+        {
+          "BTTTriggerType" : 112,
+          "BTTTriggerTypeDescription" : "3 Finger Click",
+          "BTTTriggerClass" : "BTTTriggerTypeTouchpadAll",
+          "BTTPredefinedActionType" : 111,
+          "BTTPredefinedActionName" : "CMD(⌘)+Shift(⇧)-Click",
+          "BTTEnabled" : 1,
+          "BTTOrder" : 42,
+          "BTTKeySequence" : {
+
+          }
+        },
+        {
+          "BTTTriggerType" : 102,
+          "BTTTriggerTypeDescription" : "3 Finger Swipe Up",
+          "BTTTriggerClass" : "BTTTriggerTypeTouchpadAll",
+          "BTTShortcutToSend" : "55,13",
+          "BTTEnabled" : 1,
+          "BTTOrder" : 39,
+          "BTTKeySequence" : {
+
+          }
+        },
+        {
+          "BTTTriggerType" : 103,
+          "BTTTriggerTypeDescription" : "3 Finger Swipe Down",
+          "BTTTriggerClass" : "BTTTriggerTypeTouchpadAll",
+          "BTTShortcutToSend" : "56,55,17",
+          "BTTEnabled" : 1,
+          "BTTOrder" : 38,
+          "BTTKeySequence" : {
+
+          }
+        },
+        {
+          "BTTTriggerType" : 101,
+          "BTTTriggerTypeDescription" : "3 Finger Swipe Right",
+          "BTTTriggerClass" : "BTTTriggerTypeTouchpadAll",
+          "BTTShortcutToSend" : "59,56,48",
+          "BTTEnabled" : 1,
+          "BTTOrder" : 41,
+          "BTTKeySequence" : {
+
+          }
+        }
+      ]
+    },
+    {
+      "BTTAppBundleIdentifier" : "BT.G",
+      "BTTAppName" : "Global",
+      "BTTAppSpecificSettings" : {
+
+      },
+      "BTTTriggers" : [
+        {
+          "BTTTriggerType" : 104,
+          "BTTTriggerTypeDescription" : "3 Finger Tap",
+          "BTTTriggerClass" : "BTTTriggerTypeTouchpadAll",
+          "BTTPredefinedActionType" : 1,
+          "BTTPredefinedActionName" : "Middle Click",
+          "BTTEnabled" : 1,
+          "BTTOrder" : 2
+        },
+        {
+          "BTTTriggerType" : 100,
+          "BTTTriggerTypeDescription" : "3 Finger Swipe Left",
+          "BTTTriggerClass" : "BTTTriggerTypeTouchpadAll",
+          "BTTEnabled" : 1,
+          "BTTOrder" : 5
+        },
+        {
+          "BTTTriggerType" : 169,
+          "BTTTriggerTypeDescription" : "4 Finger Double Tap",
+          "BTTTriggerClass" : "BTTTriggerTypeTouchpadAll",
+          "BTTPredefinedActionType" : 112,
+          "BTTPredefinedActionName" : "Enter Fullscreen (If Supported)",
+          "BTTEnabled" : 1,
+          "BTTOrder" : 3
+        },
+        {
+          "BTTTriggerType" : 132,
+          "BTTTriggerTypeDescription" : "TipTap Left (2 Fingers Fix)",
+          "BTTTriggerClass" : "BTTTriggerTypeTouchpadAll",
+          "BTTPredefinedActionType" : 26,
+          "BTTPredefinedActionName" : "Previous",
+          "BTTEnabled" : 1,
+          "BTTOrder" : 0
+        },
+        {
+          "BTTTriggerType" : 156,
+          "BTTTriggerTypeDescription" : "3 Finger Clickswipe Down",
+          "BTTTriggerClass" : "BTTTriggerTypeTouchpadAll",
+          "BTTShortcutToSend" : "55,45",
+          "BTTEnabled" : 1,
+          "BTTOrder" : 4
+        },
+        {
+          "BTTTriggerType" : 133,
+          "BTTTriggerTypeDescription" : "TipTap Right (2 Fingers Fix)",
+          "BTTTriggerClass" : "BTTTriggerTypeTouchpadAll",
+          "BTTPredefinedActionType" : 27,
+          "BTTPredefinedActionName" : "Next",
+          "BTTEnabled" : 1,
+          "BTTOrder" : 1
+        }
+      ]
+    },
+    {
+      "BTTAppBundleIdentifier" : "com.apple.finder",
+      "BTTAppName" : "Finder",
+      "BTTAppSpecificSettings" : {
+
+      },
+      "BTTTriggers" : [
+        {
+          "BTTTriggerType" : 102,
+          "BTTTriggerTypeDescription" : "3 Finger Swipe Up",
+          "BTTTriggerClass" : "BTTTriggerTypeTouchpadAll",
+          "BTTShortcutToSend" : "55,13",
+          "BTTEnabled" : 1,
+          "BTTOrder" : 0
+        },
+        {
+          "BTTTriggerType" : 112,
+          "BTTTriggerTypeDescription" : "3 Finger Click",
+          "BTTTriggerClass" : "BTTTriggerTypeTouchpadAll",
+          "BTTShortcutToSend" : "59,58,56,55,3",
+          "BTTEnabled" : 1,
+          "BTTOrder" : 3
+        },
+        {
+          "BTTTriggerType" : 103,
+          "BTTTriggerTypeDescription" : "3 Finger Swipe Down",
+          "BTTTriggerClass" : "BTTTriggerTypeTouchpadAll",
+          "BTTShortcutToSend" : "55,17",
+          "BTTEnabled" : 1,
+          "BTTOrder" : 1
+        },
+        {
+          "BTTTriggerType" : 155,
+          "BTTTriggerTypeDescription" : "3 Finger Clickswipe Up",
+          "BTTTriggerClass" : "BTTTriggerTypeTouchpadAll",
+          "BTTShortcutToSend" : "55,126",
+          "BTTEnabled" : 1,
+          "BTTOrder" : 2
+        }
+      ]
+    },
+    {
+      "BTTAppBundleIdentifier" : "com.todoist.mac.Todoist",
+      "BTTAppName" : "Todoist",
+      "BTTAppSpecificSettings" : {
+
+      },
+      "BTTTriggers" : [
+        {
+          "BTTTriggerType" : 112,
+          "BTTTriggerTypeDescription" : "3 Finger Click",
+          "BTTTriggerClass" : "BTTTriggerTypeTouchpadAll",
+          "BTTEnabled" : 1,
+          "BTTOrder" : 0
+        }
+      ]
+    },
+    {
+      "BTTAppBundleIdentifier" : "com.apple.Safari",
+      "BTTAppName" : "Safari",
+      "BTTAppSpecificSettings" : {
+
+      },
+      "BTTTriggers" : [
+        {
+          "BTTTriggerType" : -1,
+          "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+          "BTTEnabled" : 1,
+          "BTTShortcutKeyCode" : -1,
+          "BTTShortcutModifierKeys" : -1,
+          "BTTOrder" : 0
+        },
+        {
+          "BTTTriggerType" : 100,
+          "BTTTriggerTypeDescription" : "3 Finger Swipe Left",
+          "BTTTriggerClass" : "BTTTriggerTypeTouchpadAll",
+          "BTTShortcutToSend" : "59,48",
+          "BTTEnabled" : 1,
+          "BTTOrder" : 2
+        },
+        {
+          "BTTTriggerType" : 102,
+          "BTTTriggerTypeDescription" : "3 Finger Swipe Up",
+          "BTTTriggerClass" : "BTTTriggerTypeTouchpadAll",
+          "BTTShortcutToSend" : "55,13",
+          "BTTEnabled" : 1,
+          "BTTOrder" : 1
+        },
+        {
+          "BTTTriggerType" : 112,
+          "BTTTriggerTypeDescription" : "3 Finger Click",
+          "BTTTriggerClass" : "BTTTriggerTypeTouchpadAll",
+          "BTTPredefinedActionType" : 111,
+          "BTTPredefinedActionName" : "CMD(⌘)+Shift(⇧)-Click",
+          "BTTEnabled" : 1,
+          "BTTOrder" : 4
+        },
+        {
+          "BTTTriggerType" : 101,
+          "BTTTriggerTypeDescription" : "3 Finger Swipe Right",
+          "BTTTriggerClass" : "BTTTriggerTypeTouchpadAll",
+          "BTTShortcutToSend" : "59,56,48",
+          "BTTEnabled" : 1,
+          "BTTOrder" : 3
+        },
+        {
+          "BTTTriggerType" : 103,
+          "BTTTriggerTypeDescription" : "3 Finger Swipe Down",
+          "BTTTriggerClass" : "BTTTriggerTypeTouchpadAll",
+          "BTTShortcutToSend" : "56,55,17",
+          "BTTEnabled" : 1,
+          "BTTOrder" : 0
+        }
+      ]
+    },
+    {
+      "BTTAppBundleIdentifier" : "com.google.Chrome",
+      "BTTAppName" : "Google Chrome",
+      "BTTAppSpecificSettings" : {
+
+      },
+      "BTTTriggers" : [
+        {
+          "BTTTriggerType" : 100,
+          "BTTTriggerTypeDescription" : "3 Finger Swipe Left",
+          "BTTTriggerClass" : "BTTTriggerTypeTouchpadAll",
+          "BTTShortcutToSend" : "59,48",
+          "BTTEnabled" : 1,
+          "BTTOrder" : 2,
+          "BTTKeySequence" : {
+
+          }
+        },
+        {
+          "BTTTriggerType" : 102,
+          "BTTTriggerTypeDescription" : "3 Finger Swipe Up",
+          "BTTTriggerClass" : "BTTTriggerTypeTouchpadAll",
+          "BTTShortcutToSend" : "55,13",
+          "BTTEnabled" : 1,
+          "BTTOrder" : 1,
+          "BTTKeySequence" : {
+
+          }
+        },
+        {
+          "BTTTriggerType" : 103,
+          "BTTTriggerTypeDescription" : "3 Finger Swipe Down",
+          "BTTTriggerClass" : "BTTTriggerTypeTouchpadAll",
+          "BTTShortcutToSend" : "56,55,17",
+          "BTTEnabled" : 1,
+          "BTTOrder" : 0,
+          "BTTKeySequence" : {
+
+          }
+        },
+        {
+          "BTTTriggerType" : 101,
+          "BTTTriggerTypeDescription" : "3 Finger Swipe Right",
+          "BTTTriggerClass" : "BTTTriggerTypeTouchpadAll",
+          "BTTShortcutToSend" : "59,56,48",
+          "BTTEnabled" : 1,
+          "BTTOrder" : 3,
+          "BTTKeySequence" : {
+
+          }
+        },
+        {
+          "BTTTriggerType" : 112,
+          "BTTTriggerTypeDescription" : "3 Finger Click",
+          "BTTTriggerClass" : "BTTTriggerTypeTouchpadAll",
+          "BTTPredefinedActionType" : 111,
+          "BTTPredefinedActionName" : "CMD(⌘)+Shift(⇧)-Click",
+          "BTTEnabled" : 1,
+          "BTTOrder" : 4,
+          "BTTKeySequence" : {
+
+          }
+        }
+      ]
+    },
+    {
+      "BTTAppBundleIdentifier" : "com.microsoft.VSCode",
+      "BTTAppName" : "Visual Studio Code",
+      "BTTAppSpecificSettings" : {
+
+      },
+      "BTTTriggers" : [
+        {
+          "BTTTriggerType" : 104,
+          "BTTTriggerTypeDescription" : "3 Finger Tap",
+          "BTTTriggerClass" : "BTTTriggerTypeTouchpadAll",
+          "BTTShortcutToSend" : "58,111",
+          "BTTEnabled" : 1,
+          "BTTOrder" : 0
+        },
+        {
+          "BTTTriggerType" : 629,
+          "BTTTriggerClass" : "BTTTriggerTypeTouchBar",
+          "BTTEnabled" : 1,
+          "BTTOrder" : 0
+        }
+      ]
+    }
+  ],
+  "BTTPresetSnapAreas" : [
+
+  ]
+}
